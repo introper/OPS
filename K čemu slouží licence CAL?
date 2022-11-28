@@ -1,1 +1,6 @@
-
+David Daněk
+Client Access License 
+CAL je licence, která nám umožňuje přístup do Windows Serveru. Každý uživatel tedy potřebuje mít svoji licensi CAL, aby na serveru mohl pracovat. Tyto licence jsou určeny koncovým uživatelům. Jsou nějaké verze, které CAL nepotřebují např. Windows Server 2022 Esentials, které má ale limit na 25 uživatelů a 50 zařízení.
+Máme 2 druhy CAL licencí.
+ 1. pro uživatele - jeden uživatel může přistupovat k Windows serveru z neomezeně mnoho zařízení
+ 2. pro zařízení  - neomezený počet uživatelů může  do Windows serveru jen z jednoho počítače
